@@ -26,7 +26,7 @@
         "laravel/scout": "^10.0",
         "leandrocfe/filament-apex-charts": "^3.1.3",
         "livewire/livewire": "^3.0",
-        "lukascivil/treewalker": "0.9.1",
+        "lukascivil/treewalker": "0.41",
         "marvinosswald/filament-input-select-affix": "^0.2.0",
         "meilisearch/meilisearch-php": "^v1.6.0",
         "php": "^8.2",
