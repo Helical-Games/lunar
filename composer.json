@@ -45,7 +45,7 @@
         "orchestra/testbench": "^8.0|^9.0",
         "pestphp/pest": "^2.34.7",
         "pestphp/pest-plugin-laravel": "^2.4",
-        "symplify/monorepo-builder": "^10.0"
+        "symplify/monorepo-builder": "^11.2"
     },
     "autoload": {
         "files": [
